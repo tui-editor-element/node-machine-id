@@ -82,3 +82,4 @@ let id = machineIdSync(true)
 
 - Image-based environments have usually the same `machine-id`
 > As a workaround you can generate new machine-ids for each instance (or container) with `dbus-uuidgen` and changed them in the respective > files: `/etc/machine-id` and `/var/lib/dbus/machine-id`. Thanks [@stefanhuber](https://github.com/stefanhuber)
+# node-machine-id
